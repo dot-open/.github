@@ -1,11 +1,9 @@
-# dot-opensource-library
+<div align="center">
+   <img width="150" src="./dot-public.png" alt="logo"></br>
+   <h1>dot-opensource-library</h1>
+[![slack](https://shields.io/badge/slack-dot--Public-blueviolet?logo=slack)](https://join.slack.com/t/dotpub/shared_invite/zt-1dcs5s41i-JEzPXJjfpRTn9gNd49Kk3A)
+</div> 
 
-<a href="https://github.com/dot-open" target="_blank">
-    <img alt="join our slack" src="https://shields.io/badge/slack-dot--Public-blueviolet?logo=slack" />
-  </a> 
-
-## introduction / 简介
+## 简介
 
 dot是一个线上工作室，以开发软件、网站前后端为主。
-
-dot is an online studio, which mainly develops software, front-end and back-end websites.
